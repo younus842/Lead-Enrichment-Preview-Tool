@@ -1,6 +1,6 @@
 Lead Enrichment Preview Tool
 ----------------------------
-Get User Details based on the Name and Email Adress
+Get User Details by providing Name and Email Adress
 1. I used an API which provides users information such as :
 [
   {
